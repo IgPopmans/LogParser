@@ -1,0 +1,6 @@
+
+
+127.0.0.1 UserOne 01.09.2022 google.com REQUEST OK
+127.0.0.1 UserTwo 01.09.2022 google.com REQUEST FAIL
+127.0.0.1 UserThree 01.09.2022 google.com RESPONSE FAIL
+127.0.0.1 UserFour 01.09.2022 google.com DOWNLOAD OK
